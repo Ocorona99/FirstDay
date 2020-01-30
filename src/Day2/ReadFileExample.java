@@ -13,7 +13,7 @@ public class ReadFileExample {
         var numberOfStudents=name_list.length;
         var randGenerator=new Random();
         var num=randGenerator.nextInt(numberOfStudents);
-        System.out.print("Congrats " + name_list[num] + " you get to answer the question" );
+        System.out.print("Congrats " + name_list[num] + " you get to answer this question" );
 
 
         //part 2-Printing the list
